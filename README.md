@@ -7,7 +7,7 @@ To run, download this project to a local directory and run `yarn install`
 to initialize the node modules. Once complete use `yarn start` to start the project.
 
 
-This project first opens the `timezone.csv` file, calculates the timezone from location
+The project first opens the `timezone.csv` file, calculates the timezone from location
 and parses the time stamps. It then saves the assets to a new csv file named 
 `converted_timezone_assets.csv` in the assets directory of the root of the project folder.
 
